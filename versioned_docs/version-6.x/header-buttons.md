@@ -121,4 +121,4 @@ Generally, this is what you want. But it's possible that in some circumstances t
 
 - You can set buttons in the header through the `headerLeft` and `headerRight` properties in `options`.
 - The back button is fully customizable with `headerLeft`, but if you just want to change the title or image, there are other `options` for that &mdash; `headerBackTitle`, `headerBackTitleStyle`, and `headerBackImageSource`.
-- You can use a callback for the options prop to access `navigation` and `route` objects.
+- You can use a callback for the options prop to access `navigation` and `route` objects.    
